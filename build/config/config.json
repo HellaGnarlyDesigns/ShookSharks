@@ -10,7 +10,7 @@
   "SYMBOL": "Shook Shark",
   "MAX_SUPPLY": 8000,
   "WEI_COST": 40000000000000000,
-  "DISPLAY_COST": 0.04,
+  "DISPLAY_COST": 0.02,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/shook-sharks",
